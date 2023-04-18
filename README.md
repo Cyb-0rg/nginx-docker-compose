@@ -7,7 +7,7 @@ docker-compose up -d
 
 ### You can now access the Nginx web server by navigating to:
 <pre>
-    http://localhost:80
+    http://localhost:8080
 </pre>
 
 ## brief explanation
